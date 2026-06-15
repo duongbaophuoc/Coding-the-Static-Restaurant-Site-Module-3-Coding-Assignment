@@ -7,8 +7,7 @@ This project explores utilizing the **Twitter Bootstrap (v3.3.7)** framework to 
 ---
 
 ## 🌐 Live Review Link
-You can view the responsive deployment page here:
-👉 **[Insert your GitHub Pages live site URL here, e.g., [(https://github.com/duongbaophuoc/Coding-the-Static-Restaurant-Site-Module-3-Coding-Assignment/tree/main)]**
+ [(https://github.com/duongbaophuoc/Coding-the-Static-Restaurant-Site-Module-3-Coding-Assignment/tree/main)]**
 
 ---
 
